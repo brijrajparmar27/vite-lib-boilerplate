@@ -7,5 +7,3 @@ export const BrijsButton = ({ text }: { text: string }) => {
     </button>
   );
 };
-
-// export BrijsButton;
